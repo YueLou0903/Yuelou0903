@@ -34,7 +34,7 @@
 
 🥗QUANT Researcher（GNN\ML\...)
 
-🫓QUANT Developer（C++&Python）
+🍰QUANT Developer（C++&Python）
 
 如果你对我负责的领域感兴趣请随时联系我
 
